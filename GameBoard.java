@@ -1,7 +1,4 @@
-package versionOne;
-
 // RODOLFO JOHAM CARVAJAL MARQUEZ
-// STUDENT NUMBER 2017032
 
 import java.util.Random;
 

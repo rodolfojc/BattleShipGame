@@ -1,7 +1,4 @@
-package versionOne;
-
 //RODOLFO JOHAM CARVAJAL MARQUEZ
-//STUDENT NUMBER 2017032
 
 import java.util.Scanner;
 
@@ -382,14 +379,6 @@ public class Game {
 			"\n\t    Thanks so much! See you soon!!!\n\t Rodolfo Carvajal - 2017032                                                            ");
 	
 		
-	}
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		// GameBoard myBoard= new GameBoard();
-		// System.out.print(myBoard);
-		new Game(); // IT CREATES AN INSTANCE OF THE GAME CLASS RUNNING THE DEFAULT CONSTRUCTOR
-
 	}
 
 }
