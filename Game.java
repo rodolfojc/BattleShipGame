@@ -49,7 +49,7 @@ public class Game {
 			}
 		} while (numFlag == false);
 
-		players = new Player[numplayer]; // CREATE OBJECT OF THE CLAS PLAYER ACCORDING WITH NUMBER OF PLAYERS
+		players = new Player[numplayer]; // CREATE OBJECT OF THE CLASS PLAYER ACCORDING WITH NUMBER OF PLAYERS
 
 		for (int i = 0; i < numplayer; i++) {
 			players[i] = playersCreator(i + 1); // DETAILS IN THE METHOD, IT IS +1 BECAUSE AT LEAST 1 PLAYER WILL BE
@@ -376,7 +376,7 @@ public class Game {
 		System.out.println("  | |__| | (_| | | | | | |  __/ | |__| |\\ V /  __/ |   ");
 		System.out.println("   \\_____|\\____|_| |_| |_|\\___|  \\____/  \\_/ \\___|_|   ");
 		System.out.println(
-			"\n\t    Thanks so much! See you soon!!!\n\t Rodolfo Carvajal - 2017032                                                            ");
+			"\n\t    Thanks so much! See you soon!!!\n\t Rodolfo Carvajal                                                           ");
 	
 		
 	}
